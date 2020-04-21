@@ -6,6 +6,14 @@ This is an lambda layer for making activerecord and pg work with aws lamda. when
 i am making this as a repo hopping it can redude your suffering atleast a little bit.
 
 
+gems included 
+
+1. pg - 1.1.3 
+2. activerecord - 6.0.2.2
+
+
+just run `zip -r deployment.zip ./ruby/ ./lib/` for creating the deployment package.
+
 
 Thanks to @mphsi for the initail code that i used to build upon
 
